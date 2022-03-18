@@ -1,0 +1,9 @@
+This repository contains the C++ source codes of the machine learning enhanced ant colony optimisation algorithms to solve the orienteering problem. 
+
+To come. 
+ 
+
+-----------
+References:
+-----------
+Sun, Y., Wang, S., Shen, Y., Li, X., Ernst, A.T., & Kirley, M. Boosting Ant Colony Optimization via Solution Prediction and Machine Learning. Computers & Operations Research, accepted on 26/Feb/2022. 
