@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/OP.dir/src/graph.cpp.o"
+  "CMakeFiles/OP.dir/src/graph.cpp.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/daxpy.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/daxpy.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/ddot.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/ddot.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/dnrm2.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/dnrm2.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/dscal.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/blas/dscal.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/linear.cpp.o"
+  "CMakeFiles/OP.dir/src/linear_svm/linear.cpp.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/linear_svm_predict_model.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/linear_svm_predict_model.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/linear_svm_train_model.c.o"
+  "CMakeFiles/OP.dir/src/linear_svm/linear_svm_train_model.c.o.d"
+  "CMakeFiles/OP.dir/src/linear_svm/tron.cpp.o"
+  "CMakeFiles/OP.dir/src/linear_svm/tron.cpp.o.d"
+  "CMakeFiles/OP.dir/src/main.cpp.o"
+  "CMakeFiles/OP.dir/src/main.cpp.o.d"
+  "CMakeFiles/OP.dir/src/reduce.cpp.o"
+  "CMakeFiles/OP.dir/src/reduce.cpp.o.d"
+  "CMakeFiles/OP.dir/src/solver.cpp.o"
+  "CMakeFiles/OP.dir/src/solver.cpp.o.d"
+  "CMakeFiles/OP.dir/src/svm/svm.cpp.o"
+  "CMakeFiles/OP.dir/src/svm/svm.cpp.o.d"
+  "CMakeFiles/OP.dir/src/svm/svm_predict_model.c.o"
+  "CMakeFiles/OP.dir/src/svm/svm_predict_model.c.o.d"
+  "CMakeFiles/OP.dir/src/svm/svm_train_model.c.o"
+  "CMakeFiles/OP.dir/src/svm/svm_train_model.c.o.d"
+  "CMakeFiles/OP.dir/src/training.cpp.o"
+  "CMakeFiles/OP.dir/src/training.cpp.o.d"
+  "OP"
+  "OP.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/OP.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
